@@ -1,4 +1,5 @@
-# Customer Segmentation of Credit Cards using Unsupervised Method
+# Customer Segmentation of Credit Cards
+### Using unsupervised k-means method
 
 In this project, the marketing team of a fictional bank has 6 months of transactional data of customers using credit cards. 
 They want to launch a targeted marketing ad campaign tailored to a specific group of customers. 
